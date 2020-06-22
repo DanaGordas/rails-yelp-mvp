@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Rails Yelp - MVP ![language](https://img.shields.io/badge/language-Ruby-red.svg) ![language](https://img.shields.io/badge/language-HTML-orange.svg) ![language](https://img.shields.io/badge/language-CSS-blueviolet.svg)
+Basic Ruby on Rails app where a user can view a list of restaurants (basic Yelp style) and can click on one restaurant to view more details or leave a review.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Key learning points:
+* How to create an MVP using Ruby on Rails MVC-OOP Structure
+* How to build a **DB Schema**
+* How to create and interact with relational databases **(Sqlite3)**
+* How to use Rails **Simple Form** gem
