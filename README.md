@@ -1,6 +1,6 @@
 # README
 
-# Rails Yelp - MVP ![language](https://img.shields.io/badge/language-Ruby-red.svg) ![language](https://img.shields.io/badge/language-HTML-orange.svg) ![language](https://img.shields.io/badge/language-Javascript-yellow.svg) ![language](https://img.shields.io/badge/language-CSS-blueviolet.svg)
+# Rails Yelp - MVP ![language](https://img.shields.io/badge/language-Ruby-red.svg) ![language](https://img.shields.io/badge/language-HTML-orange.svg) ![language](https://img.shields.io/badge/language-CSS-blueviolet.svg)
 Basic Ruby on Rails app where a user can view a list of cocktails and their ingredients, add cocktails (with photo), and add cocktail ingredients or delete them. 
 
 # Key learning points:
